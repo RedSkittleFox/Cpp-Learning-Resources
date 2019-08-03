@@ -1,5 +1,6 @@
 # Basics Of C++ #
-[C++ programming tutorial series by TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+[C++ programming tutorial series](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+by TheChernoProject
 
 [C++ programming tutorial series by LearningLad](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
 
