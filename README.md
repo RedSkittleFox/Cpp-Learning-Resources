@@ -2,13 +2,16 @@
 [C++ programming tutorial series](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 by TheChernoProject
 
-[C++ programming tutorial series by LearningLad](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
+[C++ programming tutorial series](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
+by LearningLad
 
-[C++ advanced programming tutorial series by Bo Qian](https://www.youtube.com/playlist?list=PLE28375D4AC946CC3)
+[C++ advanced programming tutorial series](https://www.youtube.com/playlist?list=PLE28375D4AC946CC3)
+by Bo Qian
 
-[Place with many tutorials for basics of c++ and STL](https://www.learncpp.com/)
+[learncpp.com](https://www.learncpp.com/)
 
-[C++ Tutorial for Beginners - Full Course by freeCodeCamp.org](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+[C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) 
+by freeCodeCamp.org
 
 # C++ STL
 
@@ -16,7 +19,8 @@ by TheChernoProject
 
 [Reference for all STL Containers](https://en.cppreference.com/w/cpp/container)
 
-[STL Containers - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=fuI7UQ8dg1Q)
+[STL Containers - Learn Modern C++](https://www.youtube.com/watch?v=fuI7UQ8dg1Q)
+by Code Blacksmith
 
 ## STL Algorithms
 
@@ -40,24 +44,30 @@ by TheChernoProject
 
 ## Basics of memory management
 
-[Modern Memory Management - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=vvgKqoKa8Mg)
+[Modern Memory Management - Learn Modern C++](https://www.youtube.com/watch?v=vvgKqoKa8Mg)
+by Code Blacksmith
 
-[std::launder - what is it? - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=BneDZVf1EMw)
+[std::launder - what is it? - Learn Modern C++](https://www.youtube.com/watch?v=BneDZVf1EMw)
+by Code Blacksmith
 
-[Move Semantics Explained - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=ruHw7E71zBw)
+[Move Semantics Explained - Learn Modern C++](https://www.youtube.com/watch?v=ruHw7E71zBw)
+by Code Blacksmith
 
-[Copy and Swap - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=10wKJgrjN9M)
+[Copy and Swap - Learn Modern C++](https://www.youtube.com/watch?v=10wKJgrjN9M)
+by Code Blacksmith
 
 ## Allocators
 
 [CppCon 2015: Andrei Alexandrescu “std::allocator...”](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
 <-
 
-[Custom Allocator Tutorial - How-To by Code Blacksmith](https://www.youtube.com/watch?v=pP15kDeXJU0)
+[Custom Allocator Tutorial - How-To](https://www.youtube.com/watch?v=pP15kDeXJU0)
+by Code Blacksmith
 
 [CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://www.youtube.com/watch?v=kSWfushlvB8)
 
-[Efficient Object Pool - How-To by Code Blacksmith](https://www.youtube.com/watch?v=37VhkrOiE8M)
+[Efficient Object Pool - How-To](https://www.youtube.com/watch?v=37VhkrOiE8M)
+by Code Blacksmith
 
 # Multithreading
 
@@ -67,7 +77,8 @@ by TheChernoProject
 
 ## Type Deduction in C++
 
-[Template Type Deduction - Learn Modern C++ by Code Blacksmith](https://youtu.be/ps4G4L5V7WA)
+[Template Type Deduction - Learn Modern C++](https://youtu.be/ps4G4L5V7WA)
+by Code Blacksmith
 
 [CppCon 2018: Stephan T. Lavavej “Class Template Argument Deduction for Everyone”](https://www.youtube.com/watch?v=-H-ut6j1BYU)
 
@@ -81,7 +92,8 @@ https://www.youtube.com/watch?v=s5PCh_FaMfM <-
 
 ## C++ Object Oriented Design
 
-[Diamond Inheritance problem in C++ by Bo Qian](https://www.youtube.com/watch?v=7APovvvftQs)
+[Diamond Inheritance problem in C++](https://www.youtube.com/watch?v=7APovvvftQs)
+by Bo Qian
 
 ## C++ Data Oriented Design 
 
