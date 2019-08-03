@@ -65,8 +65,12 @@
 [Multithreaded Logger](https://www.youtube.com/watch?v=STQ3hMCTh-w)
 ~ Video Tutorial by Code Blacksmith
 
-[Memory Varriers](https://www.youtube.com/watch?v=qlkMbxUbKfw)
+[Memory Barriers](https://www.youtube.com/watch?v=qlkMbxUbKfw)
 ~ Video Tutorial by Code Blacksmith
+
+Multithreading is the answer. What is the question?[Part 1](https://www.youtube.com/watch?v=GNw3RXr-VJk)
+[Part 2](https://www.youtube.com/watch?v=sDLQWivf1-I)
+CppCon 2017 Talk by Ansel Sermersheim
 
 # Type related programming
 
@@ -182,6 +186,12 @@
 # C++ Programming Style
 
 ### Generalities about C++ programming
+
+[Make Classes Great Again! (Using Concepts for Customization Points)](https://www.youtube.com/watch?v=WsUnnYEKPnI)
+~ CppCon 2017 Talk by Vinnie Falco
+
+[Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4)
+~ CppCon 2017 Talk by Matt Kulukundis <-
 
 [Modern User Interfaces for C++](https://www.youtube.com/watch?v=RXTfC-35Nx8)
 ~ CppCon 2015 Talk by Milian Wolff <-
