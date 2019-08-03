@@ -117,10 +117,11 @@ https://www.youtube.com/watch?v=yy8jQgmhbAU
 
 ## Generalities about C++ programming
 
-[CppCon 2015: Herb Sutter "Writing Good C++14... By Default"]
-(https://www.youtube.com/watch?v=hEx5DNLWGgA) <-
+[CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA) 
+<-
 
-[CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4) <-
+[CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4) 
+<-
 
 [`const` correctness guidelines](https://isocpp.org/wiki/faq/const-correctness)
 
