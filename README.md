@@ -156,6 +156,8 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 ~ CppCon 2018 Talk by Stephan T. Lavavej <-
 
 ### SFINAE - Substitution Failure Is Not An Error
+[SFINAE documentation](https://en.cppreference.com/w/cpp/language/sfinae)
+
 [SFINAE introduction](https://jguegant.github.io/blogs/tech/sfinae-introduction.html)
 
 [Check if type has a member method of given signature](https://stackoverflow.com/a/16824239/10266364)
@@ -270,6 +272,8 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 [Boost C++ Libraries](https://www.boost.org/) ~ Somewhat an extension for current C++ standard
 
 [GSL](https://github.com/Microsoft/GSL) ~ Guidelines Support Library by Microsoft
+
+[List of Open Source C++ libraries](https://en.cppreference.com/w/cpp/links/libs)
 
 ### Embeding different languages in C++
 [Howling at the Moon: Lua for C++ Programmers](https://www.youtube.com/watch?v=pfwHCiP1HFM)
