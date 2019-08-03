@@ -109,7 +109,7 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 [Class Template Argument Deduction for Everyone](https://www.youtube.com/watch?v=-H-ut6j1BYU)
 ~ CppCon 2018 Talk by Stephan T. Lavavej <-
 
-### SFINAE
+### SFINAE - Substitution Failure Is Not An Error
 [SFINAE introduction](https://jguegant.github.io/blogs/tech/sfinae-introduction.html)
 
 [Check if type has a member method of given signature](https://stackoverflow.com/a/16824239/10266364)
