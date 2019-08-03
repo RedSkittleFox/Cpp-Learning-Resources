@@ -38,6 +38,83 @@
 [std::any](https://www.youtube.com/watch?v=vLhr_y4YOIY)
 ~ Video Tutorial by Jason Turner
 
+# Advanced C++
+
+### General Stuff
+
+#### Constexpr
+
+[constexpr - Taking Constants to the Next Level](https://www.youtube.com/watch?v=4Vnd2I91s2c)
+~ Video Tutorial by Code Blacksmith
+
+[constexpr: Introduction](https://www.youtube.com/watch?v=fZjYCQ8dzTc)
+~ CppCon 2015 Talk by Scott Schurr <-
+
+
+### Multithreading
+
+[What do you mean "thread-safe"?](https://www.youtube.com/watch?v=s5PCh_FaMfM)
+~ CppCon 2018 Talk by Geoffrey Romer
+
+[Thread Synchronization Primitives](https://www.youtube.com/watch?v=n5Pst7CY2vo)
+~ Video Tutorial by Code Blacksmith
+
+[Thread Pool](https://www.youtube.com/watch?v=eWTGtp3HXiw)
+~ Video Tutorial by Code Blacksmith
+
+[Multithreaded Logger](https://www.youtube.com/watch?v=STQ3hMCTh-w)
+~ Video Tutorial by Code Blacksmith
+
+[Memory Varriers](https://www.youtube.com/watch?v=qlkMbxUbKfw)
+~ Video Tutorial by Code Blacksmith
+
+# Type related programming
+
+### Templates
+
+[Templates in C++](https://www.youtube.com/watch?v=I-hZkUa9mIs)
+~ Video Tutorial by TheChernoProject
+
+[Variadic Templates](https://www.youtube.com/watch?v=o1EvPhz6UNE)
+~ Video Tutorial by Jason Turner
+
+[Variadic Templates in C++11 / C++14 - An Introduction](https://www.youtube.com/watch?v=R1G3P5SRXCw)
+~ CppCon 2015 Talk by Peter Sommerlad <-
+
+[std::enable_if](https://en.cppreference.com/w/cpp/types/enable_if)
+
+### Concepts
+
+[Concepts: The Future of Generic Programming (the future is here)](https://www.youtube.com/watch?v=HddFGPTAmtU)
+~ CppCon 2018 Talk by Bjarne Stroustrup <-
+
+[Concepts in 60: Everything you need to know and nothing you don't](https://www.youtube.com/watch?v=ZeU6OPaGxwM)
+~ CppCon 2018 Talk by Andrew Sutton <-
+
+### Type deduction
+
+[Type Deduction and Why You Care](https://www.youtube.com/watch?v=wQxj20X-tIU)
+~ CppCon 2014 Talk by Scott Meyers <-
+
+[Type Traits - what are they and why should I use them?](https://www.youtube.com/watch?v=VvbTP_k_Df4)
+~ CppCon 2015 Talk by Marshall Clow <-
+
+[Template Type Deduction](https://youtu.be/ps4G4L5V7WA)
+~ Video Tutorial by Code Blacksmith
+
+[Class Template Argument Deduction for Everyone](https://www.youtube.com/watch?v=-H-ut6j1BYU)
+~ CppCon 2018 Talk by Stephan T. Lavavej <-
+
+### SFINAE
+[SFINAE introduction](https://jguegant.github.io/blogs/tech/sfinae-introduction.html)
+
+[Check if type has a member method of given signature](https://stackoverflow.com/a/16824239/10266364)
+~ Question Answer by jrok
+
+### Meta-programming
+
+[Introduction to C++ Template Metaprogramming](https://www.youtube.com/watch?v=lrziylOWBT4)
+~ NDC Oslo 2016 Talk by Sasha Goldshtein <-
 
 # C++ Memory Management 
 
@@ -74,30 +151,25 @@
 [Efficient Object Pool](https://www.youtube.com/watch?v=37VhkrOiE8M)
 ~ Video Tutorial by Code Blacksmith
 
-# Advanced C++
-
-### Type Deduction in C++
-
-[Template Type Deduction](https://youtu.be/ps4G4L5V7WA)
-~ Video Tutorial by Code Blacksmith
-
-[Class Template Argument Deduction for Everyone](https://www.youtube.com/watch?v=-H-ut6j1BYU)
-~ CppCon 2018 Talk Stephan T. Lavavej
-
-### Multithreading
-
-[What do you mean "thread-safe"?](https://www.youtube.com/watch?v=s5PCh_FaMfM)
-~ CppCon 2018 Talk Geoffrey Romer
-
 # C++ Application Design
 
 ### C++ Object Oriented Design
 
 [Design Patterns and Modern C++](https://www.youtube.com/watch?v=j9arNRRoPe8)
-~ Video Tutorial by JetBrainsTV
+~ Video Tutorial by JetBrainsTV <-
 
 [Multiple Inheritance problem in C++](https://www.youtube.com/watch?v=7APovvvftQs)
 ~ Video Tutorial by Bo Qian
+
+#### C++ Design Patterns
+[Singleton Design Pattern](https://www.youtube.com/watch?v=2SIpresDYVc)
+~ Video Tutorial by Code Blacksmith
+
+[Strategy Design Pattern](https://www.youtube.com/watch?v=z84cggFUvCs)
+~ Video Tutorial by Code Blacksmith
+
+[Builder Design Pattern](https://www.youtube.com/watch?v=s8S1X-p3TtI)
+~ Video Tutorial by Code Blacksmith
 
 ### C++ Data Oriented Design 
 
@@ -110,6 +182,12 @@
 # C++ Programming Style
 
 ### Generalities about C++ programming
+
+[Modern User Interfaces for C++](https://www.youtube.com/watch?v=RXTfC-35Nx8)
+~ CppCon 2015 Talk by Milian Wolff <-
+
+[Practical Performance Practices](https://www.youtube.com/watch?v=uzF4u9KgUWI)
+~ CppCon 2016 Talk by Jason Turner  <-
 
 [Writing Good C++14... By Default](https://www.youtube.com/watch?v=hEx5DNLWGgA) 
 ~ CppCon 2015 Talk by Herb Sutter
@@ -127,9 +205,3 @@
 
 [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?time_continue=498&v=XkDEzfpdcSg)
 ~ CppCon 2017 Talk by Kate Gregory
-
-# Unsorted
-
-https://www.youtube.com/watch?v=ZeU6OPaGxwM <-
-
-https://www.youtube.com/watch?v=s5PCh_FaMfM <-
