@@ -93,6 +93,9 @@
 
 ### C++ Object Oriented Design
 
+[Design Patterns and Modern C++](https://www.youtube.com/watch?v=j9arNRRoPe8)
+~ Video Tutorial by JetBrainsTV
+
 [Multiple Inheritance problem in C++](https://www.youtube.com/watch?v=7APovvvftQs)
 ~ Video Tutorial by Bo Qian
 
