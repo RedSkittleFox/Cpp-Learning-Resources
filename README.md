@@ -1,36 +1,28 @@
 # Basics Of C++ #
-C++ programming tutorial series by TheChernoProject
-https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+[C++ programming tutorial series by TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
-C++ programming tutorial series by LearningLad
-https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
+[C++ programming tutorial series by LearningLad](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
 
-C++ advanced programming tutorial series by Bo Qian
-https://www.youtube.com/playlist?list=PLE28375D4AC946CC3
+[C++ advanced programming tutorial series by Bo Qian](https://www.youtube.com/playlist?list=PLE28375D4AC946CC3)
 
-Place with many tutorials for basics of c++ and STL
-https://www.learncpp.com/
+[Place with many tutorials for basics of c++ and STL](https://www.learncpp.com/)
 
-C++ Tutorial for Beginners - Full Course by freeCodeCamp.org
-https://www.youtube.com/watch?v=vLnPwxZdW4Y
+[C++ Tutorial for Beginners - Full Course by freeCodeCamp.org](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
 # C++ STL
 
 ## STL Containers
 
-Reference for all STL Containers
-https://en.cppreference.com/w/cpp/container
+[Reference for all STL Containers](https://en.cppreference.com/w/cpp/container)
 
-STL Containers - Learn Modern C++ by Code Blacksmith
-https://www.youtube.com/watch?v=fuI7UQ8dg1Q
+[STL Containers - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=fuI7UQ8dg1Q)
 
 ## STL Algorithms
 
-105 STL Algorithms in Less Than an Hour - Jonathan Boccara [ACCU 2018]
-https://www.youtube.com/watch?v=bXkWuUe9V2I
+[105 STL Algorithms in Less Than an Hour - Jonathan Boccara [ACCU 2018]](https://www.youtube.com/watch?v=bXkWuUe9V2I)
 
-CppCon 2016: Marshall Clow “STL Algorithms - why you should use them, and how to write your own"
-https://www.youtube.com/watch?v=h4Jl1fk3MkQ <-
+[CppCon 2016: Marshall Clow “STL Algorithms - why you should use them, and how to write your own"](https://www.youtube.com/watch?v=h4Jl1fk3MkQ)
+<-
 
 ## STL Utilities
 
