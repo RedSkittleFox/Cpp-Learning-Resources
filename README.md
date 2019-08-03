@@ -118,6 +118,9 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
  [Part 2](https://www.youtube.com/watch?v=sDLQWivf1-I)
 ~ CppCon 2017 Talk by Ansel Sermersheim <-
 
+[The Trap of std::async](https://www.youtube.com/watch?v=ad9wzKR7TAk)
+~ Video Tutorial by Code Blacksmith
+
 # Type related programming
 
 ### Templates
@@ -202,6 +205,18 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 
 [Efficient Object Pool](https://www.youtube.com/watch?v=37VhkrOiE8M)
 ~ Video Tutorial by Code Blacksmith
+
+# C++ Error Handling
+
+[C++ Exception Handling](https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling) 
+~ Article on tutorialspoint.com
+
+[Exception Safety](https://www.youtube.com/watch?v=X4TNDFlXzOo)
+~ Video Tutorial by Code Blacksmith
+
+[std::exception](https://en.cppreference.com/w/cpp/error/exception)
+
+[Custom C++ Exceptions for Beginners](http://peterforgacs.github.io/2017/06/25/Custom-C-Exceptions-For-Beginners/) ~ Article by Peter Forgacs
 
 # C++ Application Design
 
