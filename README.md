@@ -215,3 +215,29 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 
 [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?time_continue=498&v=XkDEzfpdcSg)
 ~ CppCon 2017 Talk by Kate Gregory
+
+# C++ Libraries
+
+### Embeding different languages in C++
+[Howling at the Moon: Lua for C++ Programmers](https://www.youtube.com/watch?v=pfwHCiP1HFM)
+~ CppCon 2017 Talk by Andreas Weis
+
+[Embedding Lua in C++](https://www.youtube.com/playlist?list=PLLwK93hM93Z3nhfJyRRWGRXHaXgNX0Itk)
+~ Video Tutorial Series by Dave Poo
+
+[Introduction to C++ python extensions and embedding Python in C++ Apps](https://www.youtube.com/watch?v=bJq1n4gQFfw)
+~ CppCon 2016 Talk by Diego Rodriguez-Losada
+
+### Graphical interfaces for C++
+
+[learnopengl.org](https://learnopengl.com/)
+
+[opengl-tutorial.org](http://www.opengl-tutorial.org/)
+
+[C++ OpenGL](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
+~ Video Tutorial Series by TheChernoProject 
+
+[WXwidgets C++ Tutorial](https://www.youtube.com/watch?v=FOIbK4bJKS8)
+~ Video Tutorial by javidx9 <-
+
+
