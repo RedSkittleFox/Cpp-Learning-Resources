@@ -32,13 +32,11 @@
 
 ### STL Utilities
 
-[std::pair](https://en.cppreference.com/w/cpp/utility/pair)
+[std::optional](https://www.youtube.com/watch?v=PiaZkNp_fIM)
+~ Video Tutorial by Jason Turner
 
-[std::tuple](https://en.cppreference.com/w/cpp/utility/tuple)
-
-[std::optional](https://en.cppreference.com/w/cpp/utility/optional)
-
-[std::any](https://en.cppreference.com/w/cpp/utility/any)
+[std::any](https://www.youtube.com/watch?v=vLhr_y4YOIY)
+~ Video Tutorial by Jason Turner
 
 
 # C++ Memory Management 
