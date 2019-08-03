@@ -4,7 +4,7 @@
 This document contains videos and articles about different aspects of C++ programming. Best way to learn from them is to try them yourself, or in case of a lecture, read some more about this topic in C++ documentation. 
 
 #### Advanced topics
-You should not proceed to the topics after *C++ STL* without knowing the basics of C++ (or completing at least one series from *Basics Of C++* category). The content following *C++ STL* isn't sorted by the difficulity, everything there is considered advanced C++. You should be able to understand most of that and apply it in real world after compeling *Basics Of C++* category. 
+You should not proceed to the topics after [C++ STL](https://github.com/RedSkittleFox/cpp-learning-resources#c-stl) without knowing the basics of C++ (or completing at least one series from [Basics Of C++](https://github.com/RedSkittleFox/cpp-learning-resources#basics-of-c) category). The content following [C++ STL](https://github.com/RedSkittleFox/cpp-learning-resources#c-stl) isn't sorted by the difficulity, everything there is considered advanced C++. You should be able to understand most of that and apply it in real world after compeling [Basics Of C++](https://github.com/RedSkittleFox/cpp-learning-resources#basics-of-c) category. 
 
 #### Purpose
 This place is mostly targeted for people with basic C++ and STL knowledge. It's supposed to improve your code's readibility,  performance and make your code more compact by using STL features.
@@ -268,6 +268,8 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 # C++ Libraries
 
 [Boost C++ Libraries](https://www.boost.org/) ~ Somewhat an extension for current C++ standard
+
+[GSL](https://github.com/Microsoft/GSL) ~ Guidelines Support Library by Microsoft
 
 ### Embeding different languages in C++
 [Howling at the Moon: Lua for C++ Programmers](https://www.youtube.com/watch?v=pfwHCiP1HFM)
