@@ -1,3 +1,14 @@
+# Best learning resources for C++
+
+[cppreference.com](https://en.cppreference.com/w/)
+
+[TheChernoProject YouTube Channel](https://www.youtube.com/user/TheChernoProject)
+
+[Code Blacksmith Youtube Channel](https://www.youtube.com/channel/UC1dkO571jGLzSJcsOE-ESZg)
+
+[CppCon Youtube Channel](https://www.youtube.com/user/CppCon)
+
+
 # Basics Of C++ #
 [C++ programming tutorial series](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 ~ Video Tutorial Series by TheChernoProject
@@ -12,6 +23,10 @@
 
 [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) 
 ~ Video Tutorial Series by freeCodeCamp.org
+
+[isocpp.org](https://isocpp.org)
+
+[CppCoreGuidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 # C++ STL
 
@@ -32,6 +47,9 @@
 
 ### STL Utilities
 
+[tuple＜＞: What's New and How it Works](https://www.youtube.com/watch?v=JhgWFYfdIho)
+~ CppCon 2016 Talk by Stephan T. Lavavej <-
+
 [std::optional](https://www.youtube.com/watch?v=PiaZkNp_fIM)
 ~ Video Tutorial by Jason Turner
 
@@ -40,9 +58,7 @@
 
 # Advanced C++
 
-### General Stuff
-
-#### Constexpr
+### Constexpr
 
 [constexpr - Taking Constants to the Next Level](https://www.youtube.com/watch?v=4Vnd2I91s2c)
 ~ Video Tutorial by Code Blacksmith
@@ -50,6 +66,13 @@
 [constexpr: Introduction](https://www.youtube.com/watch?v=fZjYCQ8dzTc)
 ~ CppCon 2015 Talk by Scott Schurr <-
 
+### Time in C++
+
+[A ＜chrono＞ Tutorial](https://www.youtube.com/watch?v=P32hvk8b13M)
+~ CppCon 2016 Talk by Howard Hinnant <-
+
+[Benchmark Timer](https://www.youtube.com/watch?v=GV0JMHOpoEw)
+~ Video Tutorial by Code Blacksmith
 
 ### Multithreading
 
