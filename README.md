@@ -1,3 +1,20 @@
+# About This Document
+
+#### Usage
+This document contains videos and articles about different aspects of C++ programming. Best way to learn from them is to try them yourself, or in case of a lecture, read some more about this topic in C++ documentation. 
+
+#### Advanced topics
+You should not proceed to the topics after *C++ STL* without knowing the basics of C++ (or completing at least one series from *Basics Of C++* category). The content following *C++ STL* isn't sorted by the difficulity, everything there is considered advanced C++. You should be able to understand most of that and apply it in real world after compeling *Basics Of C++* category. 
+
+#### Purpose
+This place is mostly targeted for people with basic C++ and STL knowledge. It's supposed to improve your code's readibility,  performance and make your code more compact by using STL features.
+
+#### Contributing
+Create either an [issue](https://github.com/RedSkittleFox/cpp-learning-resources/issues) with title and link to the resource you would like to add to this document or create new branch, add some changes and create a pull request. 
+
+#### Comments and suggestions
+Please leave your comments, thoughts and suggestions via [Issues](https://github.com/RedSkittleFox/cpp-learning-resources/issues). 
+
 # Best learning resources for C++
 
 [cppreference.com](https://en.cppreference.com/w/)
@@ -9,7 +26,7 @@
 [CppCon Youtube Channel](https://www.youtube.com/user/CppCon)
 
 
-# Basics Of C++ #
+# Basics Of C++
 [C++ programming tutorial series](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 ~ Video Tutorial Series by TheChernoProject
 
@@ -36,6 +53,12 @@
 
 [STL Containers - Learn Modern C++](https://www.youtube.com/watch?v=fuI7UQ8dg1Q)
 ~ Video Tutorial by Code Blacksmith
+
+[How to write an STL compatible container](https://medium.com/@vgasparyan1995/how-to-write-an-stl-compatible-container-fc5b994462c6)
+~ Article by Vanand Gasparyan
+
+[Writing your own STL container](https://stackoverflow.com/a/7759622/10266364)
+~ Question answer by Mooing Duck
 
 ### STL Algorithms
 
@@ -210,6 +233,9 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 
 ### Generalities about C++ programming
 
+[Why does the C++ STL not provide any “tree” containers?](https://stackoverflow.com/a/205985/10266364)
+~ Question Answer by Martin York
+
 [Make Classes Great Again! (Using Concepts for Customization Points)](https://www.youtube.com/watch?v=WsUnnYEKPnI)
 ~ CppCon 2017 Talk by Vinnie Falco
 
@@ -241,6 +267,8 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 
 # C++ Libraries
 
+[Boost C++ Libraries](https://www.boost.org/) ~ Somewhat an extension for current C++ standard
+
 ### Embeding different languages in C++
 [Howling at the Moon: Lua for C++ Programmers](https://www.youtube.com/watch?v=pfwHCiP1HFM)
 ~ CppCon 2017 Talk by Andreas Weis
@@ -250,6 +278,10 @@ Multithreading is the answer. What is the question? [Part 1](https://www.youtube
 
 [Introduction to C++ python extensions and embedding Python in C++ Apps](https://www.youtube.com/watch?v=bJq1n4gQFfw)
 ~ CppCon 2016 Talk by Diego Rodriguez-Losada
+
+### Custom container libraries for C++
+
+[tree.hh](http://tree.phi-sci.com/index.html) ~ Tree Type container library for C++
 
 ### Graphical interfaces for C++
 
