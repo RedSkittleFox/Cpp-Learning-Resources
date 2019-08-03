@@ -68,9 +68,9 @@
 [Memory Barriers](https://www.youtube.com/watch?v=qlkMbxUbKfw)
 ~ Video Tutorial by Code Blacksmith
 
-Multithreading is the answer. What is the question?[Part 1](https://www.youtube.com/watch?v=GNw3RXr-VJk)
-[Part 2](https://www.youtube.com/watch?v=sDLQWivf1-I)
-CppCon 2017 Talk by Ansel Sermersheim
+Multithreading is the answer. What is the question? [Part 1](https://www.youtube.com/watch?v=GNw3RXr-VJk)
+ [Part 2](https://www.youtube.com/watch?v=sDLQWivf1-I)
+~ CppCon 2017 Talk by Ansel Sermersheim <-
 
 # Type related programming
 
