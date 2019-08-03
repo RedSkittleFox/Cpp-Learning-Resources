@@ -56,6 +56,9 @@ by Code Blacksmith
 [Copy and Swap - Learn Modern C++](https://www.youtube.com/watch?v=10wKJgrjN9M)
 by Code Blacksmith
 
+## Garbage Collection
+[GC FAQ](https://www.iecc.com/gclist/GC-faq.html) 
+document regarding garbage collection in C++
 ## Allocators
 
 [CppCon 2015: Andrei Alexandrescu “std::allocator...”](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
