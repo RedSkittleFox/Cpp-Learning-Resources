@@ -25,9 +25,10 @@ by Code Blacksmith
 ### STL Algorithms
 
 [105 STL Algorithms in Less Than an Hour - Jonathan Boccara [ACCU 2018]](https://www.youtube.com/watch?v=bXkWuUe9V2I)
+- ACCU Talk by Jonathan Boccara
 
 [CppCon 2016: Marshall Clow “STL Algorithms - why you should use them, and how to write your own"](https://www.youtube.com/watch?v=h4Jl1fk3MkQ)
-<-
+- CppCon 2016 Talk by Marshall Clow <-
 
 ### STL Utilities
 
@@ -57,24 +58,23 @@ by Code Blacksmith
 by Code Blacksmith
 
 ### Garbage Collection
+
 [GC FAQ](https://www.iecc.com/gclist/GC-faq.html) 
 document regarding garbage collection in C++
+
 ### Allocators
 
 [CppCon 2015: Andrei Alexandrescu “std::allocator...”](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
-<-
+- CppCon 2015 Talk by Andrei Alexandrescu <-
 
 [Custom Allocator Tutorial - How-To](https://www.youtube.com/watch?v=pP15kDeXJU0)
 by Code Blacksmith
 
 [CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://www.youtube.com/watch?v=kSWfushlvB8)
+- CppCon 2017 Talk by Bob Steagall
 
 [Efficient Object Pool - How-To](https://www.youtube.com/watch?v=37VhkrOiE8M)
 by Code Blacksmith
-
-# Multithreading
-
-[CppCon 2018: Geoffrey Romer “What do you mean "thread-safe"?”](https://www.youtube.com/watch?v=s5PCh_FaMfM)
 
 # Advanced C++
 
@@ -84,12 +84,12 @@ by Code Blacksmith
 by Code Blacksmith
 
 [CppCon 2018: Stephan T. Lavavej “Class Template Argument Deduction for Everyone”](https://www.youtube.com/watch?v=-H-ut6j1BYU)
+- CppCon 2018 Talk Stephan T. Lavavej
 
-# General C++
+### Multithreading
 
-https://www.youtube.com/watch?v=ZeU6OPaGxwM <-
-
-https://www.youtube.com/watch?v=s5PCh_FaMfM <-
+[CppCon 2018: Geoffrey Romer “What do you mean "thread-safe"?”](https://www.youtube.com/watch?v=s5PCh_FaMfM)
+- CppCon 2018 Talk Geoffrey Romer
 
 # C++ Application Design
 
@@ -101,17 +101,21 @@ by Bo Qian
 ### C++ Data Oriented Design 
 
 [Data Driven Entity Component System in C++17 - lecture by K.Kisielewicz - Code Europe Autumn 2017](https://www.youtube.com/watch?v=tONOW7Luln8)
+- Code Europe Autumn 2017 Talk K.Kisielewicz
 
 [CppCon 2018: Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”:](https://www.youtube.com/watch?v=yy8jQgmhbAU)
+- CppCon 2018 Talk by Stoyan Nikolov
 
 # C++ Programming Style
 
 ### Generalities about C++ programming
 
 [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA) 
+- CppCon 2015 Talk by Herb Sutter
 <-
 
 [CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4) 
+- CppCon 2018 Talk Ben Deane
 <-
 
 [`const` correctness guidelines](https://isocpp.org/wiki/faq/const-correctness)
@@ -121,3 +125,10 @@ by Bo Qian
 [C++ Programming guidelines document](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 [CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?time_continue=498&v=XkDEzfpdcSg)
+- CppCon 2017 Talk by Kate Gregory
+
+# Unsorted
+
+https://www.youtube.com/watch?v=ZeU6OPaGxwM <-
+
+https://www.youtube.com/watch?v=s5PCh_FaMfM <-
