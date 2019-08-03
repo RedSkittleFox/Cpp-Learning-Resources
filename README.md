@@ -15,21 +15,21 @@ by freeCodeCamp.org
 
 # C++ STL
 
-## STL Containers
+### STL Containers
 
 [Reference for all STL Containers](https://en.cppreference.com/w/cpp/container)
 
 [STL Containers - Learn Modern C++](https://www.youtube.com/watch?v=fuI7UQ8dg1Q)
 by Code Blacksmith
 
-## STL Algorithms
+### STL Algorithms
 
 [105 STL Algorithms in Less Than an Hour - Jonathan Boccara [ACCU 2018]](https://www.youtube.com/watch?v=bXkWuUe9V2I)
 
 [CppCon 2016: Marshall Clow “STL Algorithms - why you should use them, and how to write your own"](https://www.youtube.com/watch?v=h4Jl1fk3MkQ)
 <-
 
-## STL Utilities
+### STL Utilities
 
 [std::pair](https://en.cppreference.com/w/cpp/utility/pair)
 
@@ -42,7 +42,7 @@ by Code Blacksmith
 
 # C++ Memory Management 
 
-## Basics of memory management
+### Basics of memory management
 
 [Modern Memory Management - Learn Modern C++](https://www.youtube.com/watch?v=vvgKqoKa8Mg)
 by Code Blacksmith
@@ -56,10 +56,10 @@ by Code Blacksmith
 [Copy and Swap - Learn Modern C++](https://www.youtube.com/watch?v=10wKJgrjN9M)
 by Code Blacksmith
 
-## Garbage Collection
+### Garbage Collection
 [GC FAQ](https://www.iecc.com/gclist/GC-faq.html) 
 document regarding garbage collection in C++
-## Allocators
+### Allocators
 
 [CppCon 2015: Andrei Alexandrescu “std::allocator...”](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
 <-
@@ -78,7 +78,7 @@ by Code Blacksmith
 
 # Advanced C++
 
-## Type Deduction in C++
+### Type Deduction in C++
 
 [Template Type Deduction - Learn Modern C++](https://youtu.be/ps4G4L5V7WA)
 by Code Blacksmith
@@ -93,12 +93,12 @@ https://www.youtube.com/watch?v=s5PCh_FaMfM <-
 
 # C++ Application Design
 
-## C++ Object Oriented Design
+### C++ Object Oriented Design
 
 [Diamond Inheritance problem in C++](https://www.youtube.com/watch?v=7APovvvftQs)
 by Bo Qian
 
-## C++ Data Oriented Design 
+### C++ Data Oriented Design 
 
 [Data Driven Entity Component System in C++17 - lecture by K.Kisielewicz - Code Europe Autumn 2017](https://www.youtube.com/watch?v=tONOW7Luln8)
 
@@ -106,7 +106,7 @@ by Bo Qian
 
 # C++ Programming Style
 
-## Generalities about C++ programming
+### Generalities about C++ programming
 
 [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA) 
 <-
@@ -116,7 +116,7 @@ by Bo Qian
 
 [`const` correctness guidelines](https://isocpp.org/wiki/faq/const-correctness)
 
-## Programing Guidelines
+### Programing Guidelines
 
 [C++ Programming guidelines document](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
