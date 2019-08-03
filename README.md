@@ -117,16 +117,15 @@ https://www.youtube.com/watch?v=yy8jQgmhbAU
 
 ## Generalities about C++ programming
 
-CppCon 2015: Herb Sutter "Writing Good C++14... By Default"
-https://www.youtube.com/watch?v=hEx5DNLWGgA <-
+[CppCon 2015: Herb Sutter "Writing Good C++14... By Default"]
+(https://www.youtube.com/watch?v=hEx5DNLWGgA) <-
 
-CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”
-https://www.youtube.com/watch?v=I52uPJSoAT4 <-
+[CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4) <-
+
+[`const` correctness guidelines](https://isocpp.org/wiki/faq/const-correctness)
 
 ## Programing Guidelines
 
-Programming guidelines website:
-http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+[C++ Programming guidelines document](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
-CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”:
-https://www.youtube.com/watch?time_continue=498&v=XkDEzfpdcSg
+[CppCon 2017: Kate Gregory “10 Core Guidelines You Need to Start Using Now”](https://www.youtube.com/watch?time_continue=498&v=XkDEzfpdcSg)
