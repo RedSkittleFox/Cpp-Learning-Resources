@@ -26,63 +26,49 @@
 
 ## STL Utilities
 
-std::pair
-https://en.cppreference.com/w/cpp/utility/pair
+[std::pair](https://en.cppreference.com/w/cpp/utility/pair)
 
-std::tuple
-https://en.cppreference.com/w/cpp/utility/tuple
+[std::tuple](https://en.cppreference.com/w/cpp/utility/tuple)
 
-std::optional
-https://en.cppreference.com/w/cpp/utility/optional
+[std::optional](https://en.cppreference.com/w/cpp/utility/optional)
 
-std::any
-https://en.cppreference.com/w/cpp/utility/any
+[std::any](https://en.cppreference.com/w/cpp/utility/any)
 
 
 # C++ Memory Management 
 
 ## Basics of memory management
 
-Modern Memory Management - Learn Modern C++ by Code Blacksmith
-https://www.youtube.com/watch?v=vvgKqoKa8Mg
+[Modern Memory Management - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=vvgKqoKa8Mg)
 
-std::launder - what is it? - Learn Modern C++ by Code Blacksmith
-https://www.youtube.com/watch?v=BneDZVf1EMw
+[std::launder - what is it? - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=BneDZVf1EMw)
 
-Move Semantics Explained - Learn Modern C++ by Code Blacksmith
-https://www.youtube.com/watch?v=ruHw7E71zBw
+[Move Semantics Explained - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=ruHw7E71zBw)
 
-Copy and Swap - Learn Modern C++ by Code Blacksmith
-https://www.youtube.com/watch?v=10wKJgrjN9M
+[Copy and Swap - Learn Modern C++ by Code Blacksmith](https://www.youtube.com/watch?v=10wKJgrjN9M)
 
 ## Allocators
 
-CppCon 2015: Andrei Alexandrescu “std::allocator...”
-https://www.youtube.com/watch?v=LIb3L4vKZ7U <-
+[CppCon 2015: Andrei Alexandrescu “std::allocator...”](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
+<-
 
-Custom Allocator Tutorial - How-To by Code Blacksmith
-https://www.youtube.com/watch?v=pP15kDeXJU0
+[Custom Allocator Tutorial - How-To by Code Blacksmith](https://www.youtube.com/watch?v=pP15kDeXJU0)
 
-CppCon 2017: Bob Steagall “How to Write a Custom Allocator”
-https://www.youtube.com/watch?v=kSWfushlvB8
+[CppCon 2017: Bob Steagall “How to Write a Custom Allocator”](https://www.youtube.com/watch?v=kSWfushlvB8)
 
-Efficient Object Pool - How-To by Code Blacksmith
-https://www.youtube.com/watch?v=37VhkrOiE8M
+[Efficient Object Pool - How-To by Code Blacksmith](https://www.youtube.com/watch?v=37VhkrOiE8M)
 
 # Multithreading
 
-CppCon 2018: Geoffrey Romer “What do you mean "thread-safe"?”
-https://www.youtube.com/watch?v=s5PCh_FaMfM
+[CppCon 2018: Geoffrey Romer “What do you mean "thread-safe"?”](https://www.youtube.com/watch?v=s5PCh_FaMfM)
 
 # Advanced C++
 
 ## Type Deduction in C++
 
-Template Type Deduction - Learn Modern C++ by Code Blacksmith:
-https://youtu.be/ps4G4L5V7WA
+[Template Type Deduction - Learn Modern C++ by Code Blacksmith](https://youtu.be/ps4G4L5V7WA)
 
-CppCon 2018: Stephan T. Lavavej “Class Template Argument Deduction for Everyone”:
-https://www.youtube.com/watch?v=-H-ut6j1BYU
+[CppCon 2018: Stephan T. Lavavej “Class Template Argument Deduction for Everyone”](https://www.youtube.com/watch?v=-H-ut6j1BYU)
 
 # General C++
 
@@ -94,16 +80,13 @@ https://www.youtube.com/watch?v=s5PCh_FaMfM <-
 
 ## C++ Object Oriented Design
 
-Diamond Inheritance problem in C++ by Bo Qian
-https://www.youtube.com/watch?v=7APovvvftQs
+[Diamond Inheritance problem in C++ by Bo Qian](https://www.youtube.com/watch?v=7APovvvftQs)
 
 ## C++ Data Oriented Design 
 
-Data Driven Entity Component System in C++17 - lecture by K.Kisielewicz - Code Europe Autumn 2017
-https://www.youtube.com/watch?v=tONOW7Luln8
+[Data Driven Entity Component System in C++17 - lecture by K.Kisielewicz - Code Europe Autumn 2017](https://www.youtube.com/watch?v=tONOW7Luln8)
 
-CppCon 2018: Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”:
-https://www.youtube.com/watch?v=yy8jQgmhbAU
+[CppCon 2018: Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”:](https://www.youtube.com/watch?v=yy8jQgmhbAU)
 
 # C++ Programming Style
 
