@@ -231,7 +231,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### Allocators
 
 - [std::allocator Is to Allocation what std::vector Is to Vexation](https://www.youtube.com/watch?v=LIb3L4vKZ7U)
-~ CppCon 2015 Talk by Andrei Alexandrescu <-
+~ CppCon 2015 Talk by Andrei Alexandrescu
 
 - [Custom Allocator Tutorial](https://www.youtube.com/watch?v=pP15kDeXJU0)
 ~ Video Tutorial by Code Blacksmith
