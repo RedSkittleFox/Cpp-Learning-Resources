@@ -26,6 +26,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
     * [STL Utilities](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#stl-utilities)
 * [Advanced C++](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#advanced-c)
     * [Constexpr](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#constexpr)
+    * [Functional](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#functional)
     * [Time in C++](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#time-in-c)
     * [Multithreading](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#multithreading)
 * [Type Related Programming](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#type-related-programming)
