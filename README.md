@@ -104,6 +104,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [STL Algorithms - why you should use them, and how to write your own](https://www.youtube.com/watch?v=h4Jl1fk3MkQ)
 ~ CppCon 2016 Talk by Marshall Clow <-
 
+[STL Algorithms in Action](https://www.youtube.com/watch?v=eidEEmGLQcU)
+~ CppCon 2016 Talk by Michael VanLoon <-
+
 ### STL Utilities
 
 - [tuple＜＞: What's New and How it Works](https://www.youtube.com/watch?v=JhgWFYfdIho)
@@ -123,7 +126,15 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Code Blacksmith
 
 - [constexpr: Introduction](https://www.youtube.com/watch?v=fZjYCQ8dzTc)
+~ CppCon 2015 Talk by Scott Schurr
+
+- [constexpr: Applications](https://www.youtube.com/watch?v=qO-9yiAOQqc)
 ~ CppCon 2015 Talk by Scott Schurr <-
+
+### Functional
+
+- [functional: What's New, And Proper Usage](https://www.youtube.com/watch?v=zt7ThwVfap0)
+~ CppCon 2015 Talk by Stephan T. Lavavej <-
 
 ### Time in C++
 
@@ -132,6 +143,11 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [Benchmark Timer](https://www.youtube.com/watch?v=GV0JMHOpoEw)
 ~ Video Tutorial by Code Blacksmith
+
+### Random
+
+- [What C++ Programmers Need to Know about Header ＜random＞](https://www.youtube.com/watch?v=6DPkyvkMkk8)
+~ CppCon 2016 Talk by Walter E. Brown <-
 
 ### Multithreading
 
@@ -242,6 +258,10 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Efficient Object Pool](https://www.youtube.com/watch?v=37VhkrOiE8M)
 ~ Video Tutorial by Code Blacksmith
 
+- [Local ('Arena') Memory Allocators (part 1)](https://www.youtube.com/watch?v=nZNd5FjSquk)
+- [Local ('Arena') Memory Allocators (part 2)](https://www.youtube.com/watch?v=CFzuFNSpycI)
+~ CppCon 2017 Talk by John Lakos <-
+
 # C++ Error Handling
 
 - [C++ Exception Handling](https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling) 
@@ -255,6 +275,12 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Custom C++ Exceptions for Beginners](http://peterforgacs.github.io/2017/06/25/Custom-C-Exceptions-For-Beginners/) ~ Article by Peter Forgacs
 
 # C++ Application Design
+
+- [Game engine using STD C++ 11](https://www.youtube.com/watch?v=8AjRD6mU96s)
+~ CppCon 2016 Talk by Jason Jurecka <-
+
+- [Modern User Interfaces for C++](https://www.youtube.com/watch?v=RXTfC-35Nx8)
+~ CppCon 2015 Talk by Milian Wolff <-
 
 ### C++ Object Oriented Design
 
@@ -295,9 +321,6 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4)
 ~ CppCon 2017 Talk by Matt Kulukundis <-
 
-- [Modern User Interfaces for C++](https://www.youtube.com/watch?v=RXTfC-35Nx8)
-~ CppCon 2015 Talk by Milian Wolff <-
-
 - [Practical Performance Practices](https://www.youtube.com/watch?v=uzF4u9KgUWI)
 ~ CppCon 2016 Talk by Jason Turner  <-
 
@@ -309,9 +332,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ CppCon 2018 Talk Ben Deane
 <-
 
-- [C++ `const` correctness guidelines](https://isocpp.org/wiki/faq/const-correctness)
-
 ### Programing Guidelines
+
+- [C++ `const` correctness guidelines](https://isocpp.org/wiki/faq/const-correctness)
 
 - [CppCoreGuidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
