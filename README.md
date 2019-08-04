@@ -45,6 +45,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
    * [C++ Data Oriented Design](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#c-data-oriented-design)
 * [C++ Programming Style](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#c-programming-style)
    * [Generalities about C++ programming](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#generalities-about-c-programming)
+   * [Best practices for C++](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#best-practices-for-c)
    * [Programing Guidelines](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#programing-guidelines)
 * [C++ Libraries](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#c-libraries)
    * [Embeding different languages in C++](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#embeding-different-languages-in-c)
@@ -97,6 +98,12 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Writing your own STL container](https://stackoverflow.com/a/7759622/10266364)
 ~ Question answer by Mooing Duck
 
+- [Why does the C++ STL not provide any “tree” containers?](https://stackoverflow.com/a/205985/10266364)
+~ Question Answer by Martin York
+
+- [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4)
+~ CppCon 2017 Talk by Matt Kulukundis <-
+
 ### STL Algorithms
 
 - [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=bXkWuUe9V2I)
@@ -105,7 +112,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [STL Algorithms - why you should use them, and how to write your own](https://www.youtube.com/watch?v=h4Jl1fk3MkQ)
 ~ CppCon 2016 Talk by Marshall Clow <-
 
-[STL Algorithms in Action](https://www.youtube.com/watch?v=eidEEmGLQcU)
+- [STL Algorithms in Action](https://www.youtube.com/watch?v=eidEEmGLQcU)
 ~ CppCon 2016 Talk by Michael VanLoon <-
 
 ### STL Utilities
@@ -313,25 +320,22 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 ### Generalities about C++ programming
 
-- [Why does the C++ STL not provide any “tree” containers?](https://stackoverflow.com/a/205985/10266364)
-~ Question Answer by Martin York
-
 - [Make Classes Great Again! (Using Concepts for Customization Points)](https://www.youtube.com/watch?v=WsUnnYEKPnI)
 ~ CppCon 2017 Talk by Vinnie Falco
 
-- [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4)
-~ CppCon 2017 Talk by Matt Kulukundis <-
+### Best practices for C++
+
+~ [Applied Best Practices](https://www.youtube.com/watch?v=DHOlsEd0eDE)
+~ CppCon 2018 Talk by Jason Turner <-
 
 - [Practical Performance Practices](https://www.youtube.com/watch?v=uzF4u9KgUWI)
 ~ CppCon 2016 Talk by Jason Turner  <-
 
 - [Writing Good C++14... By Default](https://www.youtube.com/watch?v=hEx5DNLWGgA) 
-~ CppCon 2015 Talk by Herb Sutter
-<-
+~ CppCon 2015 Talk by Herb Sutter <-
 
 - [Easy to Use, Hard to Misuse: Declarative Style in C++](https://www.youtube.com/watch?v=I52uPJSoAT4) 
-~ CppCon 2018 Talk Ben Deane
-<-
+~ CppCon 2018 Talk Ben Deane <-
 
 ### Programing Guidelines
 
