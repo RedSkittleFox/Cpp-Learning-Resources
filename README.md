@@ -107,7 +107,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### STL Utilities
 
 - [tuple＜＞: What's New and How it Works](https://www.youtube.com/watch?v=JhgWFYfdIho)
-~ CppCon 2016 Talk by Stephan T. Lavavej <-
+~ CppCon 2016 Talk by Stephan T. Lavavej
 
 - [std::optional](https://www.youtube.com/watch?v=PiaZkNp_fIM)
 ~ Video Tutorial by Jason Turner
