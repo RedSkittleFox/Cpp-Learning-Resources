@@ -325,7 +325,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 ### Best practices for C++
 
-~ [Applied Best Practices](https://www.youtube.com/watch?v=DHOlsEd0eDE)
+- [Applied Best Practices](https://www.youtube.com/watch?v=DHOlsEd0eDE)
 ~ CppCon 2018 Talk by Jason Turner <-
 
 - [Practical Performance Practices](https://www.youtube.com/watch?v=uzF4u9KgUWI)
