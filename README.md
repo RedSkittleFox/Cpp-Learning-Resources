@@ -104,6 +104,12 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4)
 ~ CppCon 2017 Talk by Matt Kulukundis <-
 
+- [Enough string_view to Hang Ourselves](https://youtu.be/xwP4YCP_0q0)
+~ CppCon 2018 Talk by Victor Ciura <-
+
+- [Customizing the Standard Containers](https://youtu.be/NyivAC3WE6g)
+~ CppCon 2017 Talk by Marshall Clow <-
+
 ### STL Algorithms
 
 - [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=bXkWuUe9V2I)
@@ -115,6 +121,15 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [STL Algorithms in Action](https://www.youtube.com/watch?v=eidEEmGLQcU)
 ~ CppCon 2016 Talk by Michael VanLoon <-
 
+- [Writing Standard Library Compliant Data Structures and Algorithms](https://youtu.be/fChDijocVec)
+~ CppCon 2018 Talk by Marc Gregoire <-
+
+- [C++17 Parallel Algorithms](https://youtu.be/Ve8cHE9LNfk)
+~ CppCon 2017 Talk by Dietmar Kühl <-
+
+- [Fantastic Algorithms and Where To Find Them](https://youtu.be/YA-nB2wjVcI)
+~ CppCon 2017 Talk by Nicholas Ormrod <-
+
 ### STL Utilities
 
 - [tuple＜＞: What's New and How it Works](https://www.youtube.com/watch?v=JhgWFYfdIho)
@@ -125,6 +140,12 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [std::any](https://www.youtube.com/watch?v=vLhr_y4YOIY)
 ~ Video Tutorial by Jason Turner
+
+- [How to Write Well-Behaved Value Wrappers](https://youtu.be/J4A2B9eexiw)
+~ CppCon 2018 Talk by Simon Brand <-
+
+- [Effective replacement of dynamic polymorphism with std::variant](https://youtu.be/gKbORJtnVu8)
+~ CppCon 2018 Talk by Mateusz Pusz <-
 
 # Advanced C++
 
@@ -196,6 +217,12 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [std::enable_if](https://en.cppreference.com/w/cpp/types/enable_if)
 
+- [Using Template Magic to Automatically Generate Hybrid CPU/GPU-Code](https://youtu.be/Xd4NVV-Uy0I)
+~ CppCon 2018 Talk by Elmar Westphal <-
+
+- [C++ Templates Revised](https://youtu.be/ULX_VTkMvf8)
+~ CppCon 2017 Talk by Nicolai Josuttis <-
+
 ### Concepts
 
 - [Concepts: The Future of Generic Programming (the future is here)](https://www.youtube.com/watch?v=HddFGPTAmtU)
@@ -218,6 +245,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Class Template Argument Deduction for Everyone](https://www.youtube.com/watch?v=-H-ut6j1BYU)
 ~ CppCon 2018 Talk by Stephan T. Lavavej <-
 
+- [Type Punning in C++17: Avoiding Pun-defined Behavior](https://youtu.be/sCjZuvtJd-k)
+~ CppCon 2017 Talk by Scott Shurr <-
+
 ### SFINAE - Substitution Failure Is Not An Error
 - [SFINAE documentation](https://en.cppreference.com/w/cpp/language/sfinae)
 
@@ -225,6 +255,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [Check if type has a member method of given signature](https://stackoverflow.com/a/16824239/10266364)
 ~ Question Answer by jrok
+
+- [Custom Overload Sets and Inline SFINAE for Truly Generic Interfaces](https://youtu.be/WBTNCYT20f0)
+~ CppCon 2018 Talk by Vincent Reverdy <-
 
 ### Meta-programming
 
@@ -247,6 +280,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Copy and Swap](https://www.youtube.com/watch?v=10wKJgrjN9M)
 ~ Video Tutorial by Code Blacksmith
 
+- [C++ Alignment, Cache Line and Best Practice](https://youtu.be/gonq59MxxcM)
+~ Lecture by Professor Sheep <-
+
 ### Garbage Collection
 
 - [GC FAQ](https://www.iecc.com/gclist/GC-faq.html) 
@@ -267,6 +303,8 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Code Blacksmith
 
 - [Local ('Arena') Memory Allocators (part 1)](https://www.youtube.com/watch?v=nZNd5FjSquk)
+~ CppCon 2017 Talk by John Lakos <-
+
 - [Local ('Arena') Memory Allocators (part 2)](https://www.youtube.com/watch?v=CFzuFNSpycI)
 ~ CppCon 2017 Talk by John Lakos <-
 
@@ -280,9 +318,16 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [std::exception](https://en.cppreference.com/w/cpp/error/exception)
 
-- [Custom C++ Exceptions for Beginners](http://peterforgacs.github.io/2017/06/25/Custom-C-Exceptions-For-Beginners/) ~ Article by Peter Forgacs
+- [Custom C++ Exceptions for Beginners](http://peterforgacs.github.io/2017/06/25/Custom-C-Exceptions-For-Beginners/) 
+~ Article by Peter Forgacs
 
 # C++ Application Design
+
+- [C++ in Huge AAA Games](https://youtu.be/qYN6eduU06s)
+~ CppCon 2014 Talk by Nicolas Fleury <-
+
+- [The C++ Execution Model](https://youtu.be/FJIn1YhPJJc)
+~ CppCon 2018 Talk by Adelstein Lelbach <-
 
 - [Game engine using STD C++ 11](https://www.youtube.com/watch?v=8AjRD6mU96s)
 ~ CppCon 2016 Talk by Jason Jurecka <-
@@ -290,13 +335,40 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Modern User Interfaces for C++](https://www.youtube.com/watch?v=RXTfC-35Nx8)
 ~ CppCon 2015 Talk by Milian Wolff <-
 
+- [EA’s Secret Weapon: Packages and Modules](https://youtu.be/NlyDUQS8OcQ)
+~ CppCon 2017 Talk by Scott Wardle <- 
+
+- [Naivety of Creating Cross-Platform, Modern C++ Libraries...](https://youtu.be/JPdohAomZD8)
+~ CppCon 2017 Talk by Jonathan Henson <-
+
+- [Modern C++ API Design (part 1 of 2)](https://youtu.be/xTdeZ4MxbKo)
+~ CppCon 2018 Talk by Titus Winters <-
+
+- [Modern C++ API Design (part 2 of 2)](https://youtu.be/tn7oVNrPM8I)
+~ CppCon 2018 Talk by Titus Winters <-
+
+- [Better Code: Human Interface](https://youtu.be/0WlJEz2wb8Y)
+~ CppCon 2018 Talk by Sean Parent <-
+
+- [Modern C++ Interfaces...](https://youtu.be/PFdWqa68LmA)
+~ CppCon 2017 Talk by Stephen Dewhurst <-
+
+- [Building C++ Modules](https://youtu.be/E8EbDcLQAoc)
+~ CppCon 2017 Talk by Boris Kolpackov <-
+
 ### C++ Object Oriented Design
+
+- [Intro to the C++ Object Model](https://youtu.be/iLiDezv_Frk)
+~ CppCon 2015 Talk by Richard Powell <- 
 
 - [Design Patterns and Modern C++](https://www.youtube.com/watch?v=j9arNRRoPe8)
 ~ Video Tutorial by JetBrainsTV <-
 
 - [Multiple Inheritance problem in C++](https://www.youtube.com/watch?v=7APovvvftQs)
 ~ Video Tutorial by Bo Qian
+
+- [Using Functional Programming Patterns...](https://youtu.be/nR2raX2-a0Q)
+~ CppCon 2017 Talk by Jeremy Demeule & Quentin Duval <-
 
 #### C++ Design Patterns
 - [Singleton Design Pattern](https://www.youtube.com/watch?v=2SIpresDYVc)
@@ -308,7 +380,16 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Builder Design Pattern](https://www.youtube.com/watch?v=s8S1X-p3TtI)
 ~ Video Tutorial by Code Blacksmith
 
+- [Agent based class design](https://youtu.be/tNXyNa6kf4k)
+~ CppCon 2017 Talk by Odin Holmes <-
+
+- [Design Patterns for Low-Level Real-Time Rendering](https://youtu.be/mdPeXJ0eiGc)
+~ CppCon 2017 Talk by Nicolas Guillemot <-
+
 ### C++ Data Oriented Design 
+
+- [Implementation of a component-based entity system in modern C++](https://youtu.be/NTWSeQtHZ9M)
+~ CppCon 2015 Talk By Vittorio Romeo <-
 
 - [Data Driven Entity Component System in C++17](https://www.youtube.com/watch?v=tONOW7Luln8)
 ~ Code Europe Autumn 2017 Talk K.Kisielewicz
@@ -320,10 +401,34 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 ### Generalities about C++ programming
 
+- [Free Your Functions!](https://youtu.be/WLDT1lDOsb4)
+~ CppCon 2017 Talk by Klaus Igleberger <-
+
 - [Make Classes Great Again! (Using Concepts for Customization Points)](https://www.youtube.com/watch?v=WsUnnYEKPnI)
 ~ CppCon 2017 Talk by Vinnie Falco
 
+- [Operator Overloading: History, Principles and Practice](https://youtu.be/zh4EgO13Etg)
+~ CppCom 2018 Talk by Ben Deane <-
+
+- [How to Write Effective Documentation for C++ Libraries...](https://youtu.be/YxmdCxX9dMk)
+~ CppCon 2017 Talk by Robert Ramey <-
+
+- [Everything You Ever Wanted to Know about DLLs](https://youtu.be/JPQWQfDhICA)
+~ CppCon 2017 Talk by James McNellis <-
+
 ### Best practices for C++
+
+- [Readable C++](https://youtu.be/zUVQhcu32rg)
+~ CppCon 2016 Talk by Timur Doumler <-
+
+- [Building Software Capital: How to write the highest quality code and why](https://youtu.be/ta3S8CRN2TM)
+~ CppCon 2016 Talk by David Sankel <-
+
+- [Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)](https://youtu.be/n4Yf2tBeAbE)
+~ CppCon 2018 Talk by Matthew Butler <-
+
+- [Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)](https://youtu.be/i0m0FBD-McY)
+~ CppCon 2018 Talk by Matthew Butler <-
 
 - [Applied Best Practices](https://www.youtube.com/watch?v=DHOlsEd0eDE)
 ~ CppCon 2018 Talk by Jason Turner <-
