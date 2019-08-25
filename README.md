@@ -281,7 +281,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Code Blacksmith
 
 - [C++ Alignment, Cache Line and Best Practice](https://youtu.be/gonq59MxxcM)
-~ Lecture by Professor Sheep <-
+~ Lecture by Professor Sheep
 
 ### Garbage Collection
 
