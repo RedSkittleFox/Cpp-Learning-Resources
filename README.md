@@ -218,7 +218,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [std::enable_if](https://en.cppreference.com/w/cpp/types/enable_if)
 
 - [Using Template Magic to Automatically Generate Hybrid CPU/GPU-Code](https://youtu.be/Xd4NVV-Uy0I)
-~ CppCon 2018 Talk by Elmar Westphal <-
+~ CppCon 2018 Talk by Elmar Westphal
 
 - [C++ Templates Revised](https://youtu.be/ULX_VTkMvf8)
 ~ CppCon 2017 Talk by Nicolai Josuttis <-
