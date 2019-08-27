@@ -234,7 +234,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### Type deduction
 
 - [Type Deduction and Why You Care](https://www.youtube.com/watch?v=wQxj20X-tIU)
-~ CppCon 2014 Talk by Scott Meyers <-
+~ CppCon 2014 Talk by Scott Meyers
 
 - [Type Traits - what are they and why should I use them?](https://www.youtube.com/watch?v=VvbTP_k_Df4)
 ~ CppCon 2015 Talk by Marshall Clow <-
