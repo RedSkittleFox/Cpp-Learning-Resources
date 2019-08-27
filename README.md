@@ -359,7 +359,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### C++ Object Oriented Design
 
 - [Intro to the C++ Object Model](https://youtu.be/iLiDezv_Frk)
-~ CppCon 2015 Talk by Richard Powell <- 
+~ CppCon 2015 Talk by Richard Powell
 
 - [Design Patterns and Modern C++](https://www.youtube.com/watch?v=j9arNRRoPe8)
 ~ Video Tutorial by JetBrainsTV <-
