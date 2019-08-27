@@ -237,7 +237,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ CppCon 2014 Talk by Scott Meyers
 
 - [Type Traits - what are they and why should I use them?](https://www.youtube.com/watch?v=VvbTP_k_Df4)
-~ CppCon 2015 Talk by Marshall Clow <-
+~ CppCon 2015 Talk by Marshall Clow
 
 - [Template Type Deduction](https://youtu.be/ps4G4L5V7WA)
 ~ Video Tutorial by Code Blacksmith
