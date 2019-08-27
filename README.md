@@ -163,7 +163,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### Functional
 
 - [functional: What's New, And Proper Usage](https://www.youtube.com/watch?v=zt7ThwVfap0)
-~ CppCon 2015 Talk by Stephan T. Lavavej <-
+~ CppCon 2015 Talk by Stephan T. Lavavej
 
 ### Time in C++
 
