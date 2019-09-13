@@ -105,10 +105,10 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ CppCon 2017 Talk by Matt Kulukundis <-
 
 - [Enough string_view to Hang Ourselves](https://youtu.be/xwP4YCP_0q0)
-~ CppCon 2018 Talk by Victor Ciura <-
+~ CppCon 2018 Talk by Victor Ciura
 
 - [Customizing the Standard Containers](https://youtu.be/NyivAC3WE6g)
-~ CppCon 2017 Talk by Marshall Clow <-
+~ CppCon 2017 Talk by Marshall Clow
 
 ### STL Algorithms
 
@@ -142,7 +142,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Jason Turner
 
 - [How to Write Well-Behaved Value Wrappers](https://youtu.be/J4A2B9eexiw)
-~ CppCon 2018 Talk by Simon Brand <-
+~ CppCon 2018 Talk by Simon Brand
 
 - [Effective replacement of dynamic polymorphism with std::variant](https://youtu.be/gKbORJtnVu8)
 ~ CppCon 2018 Talk by Mateusz Pusz <-
