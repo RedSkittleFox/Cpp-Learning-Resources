@@ -1,13 +1,13 @@
 # About This Document
 
 #### Usage
-This document contains videos and articles about different aspects of C++ programming. Best way to learn from them is to try them yourself, or in case of a lecture, read some more about this topic in C++ documentation. 
+This document contains videos and articles about different aspects of C++ programming. The best way to learn from them is to try them out yourself, or in the case of a lecture, do private research and experiments regarding the topic. 
 
 #### Advanced topics
-You should not proceed to the topics after [C++ STL](https://github.com/RedSkittleFox/cpp-learning-resources#c-stl) without knowing the basics of C++ (or completing at least one series from [Basics Of C++](https://github.com/RedSkittleFox/cpp-learning-resources#basics-of-c) category). The content following [C++ STL](https://github.com/RedSkittleFox/cpp-learning-resources#c-stl) isn't sorted by the difficulity, everything there is considered advanced C++. You should be able to understand most of that and apply it in real world after compeling [Basics Of C++](https://github.com/RedSkittleFox/cpp-learning-resources#basics-of-c) category. 
+You should not proceed to the topics after [C++ STL](https://github.com/RedSkittleFox/cpp-learning-resources#c-stl) without knowing the basics of C++ (or completing at least one series from [Basics Of C++](https://github.com/RedSkittleFox/cpp-learning-resources#basics-of-c) category). The content following [C++ STL](https://github.com/RedSkittleFox/cpp-learning-resources#c-stl) isn't sorted by the difficulity, everything there is considered advanced C++. You should be able to understand most of it and apply it in your code after completing [Basics Of C++](https://github.com/RedSkittleFox/cpp-learning-resources#basics-of-c) category. 
 
 #### Purpose
-This place is mostly targeted for people with basic C++ and STL knowledge. It's supposed to improve your code's readibility,  performance and make your code more compact by using STL features.
+This document is a collection of high quality c++ learning materials for both new and experienced c++ programmers.
 
 #### Contributing
 Create either an [issue](https://github.com/RedSkittleFox/cpp-learning-resources/issues) with title and link to the resource you would like to add to this document or create new branch, add some changes and create a pull request. 
