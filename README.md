@@ -223,6 +223,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [C++ Templates Revised](https://youtu.be/ULX_VTkMvf8)
 ~ CppCon 2017 Talk by Nicolai Josuttis <-
 
+- [C++ Template Programming](https://www.3dgep.com/beginning-cpp-template-programming/)
+~ Article by Jeremiah
+
 ### Concepts
 
 - [Concepts: The Future of Generic Programming (the future is here)](https://www.youtube.com/watch?v=HddFGPTAmtU)
@@ -263,6 +266,12 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [Introduction to C++ Template Metaprogramming](https://www.youtube.com/watch?v=lrziylOWBT4)
 ~ NDC Oslo 2016 Talk by Sasha Goldshtein <-
+
+- [Modern Template Metaprogramming:A Compendium,Part 1](https://www.youtube.com/watch?v=Am2is2QCvxY)
+~ CppCon 2014 Talk by Walter E.Brown Part 1
+
+- [Modern Template Metaprogramming:A Compendium,Part 2](https://www.youtube.com/watch?v=a0FliKwcwXE)
+~ CppCon 2014 Talk by Walter E.Brown Part 2
 
 # C++ Memory Management 
 
