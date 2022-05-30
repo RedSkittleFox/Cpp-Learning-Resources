@@ -53,20 +53,23 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
    * [raphical interfaces for C++](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#graphical-interfaces-for-c)
 
 
-# Best learning resources for C++
+# Learning sources
 
 - [cppreference.com](https://en.cppreference.com/w/)
-
-- [TheChernoProject YouTube Channel](https://www.youtube.com/user/TheChernoProject)
 
 - [Code Blacksmith Youtube Channel](https://www.youtube.com/channel/UC1dkO571jGLzSJcsOE-ESZg)
 
 - [CppCon Youtube Channel](https://www.youtube.com/user/CppCon)
 
+- [isocpp.org](https://isocpp.org)
+
+- [CppCoreGuidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+- [ChiliTomatoNoodle Youtube Channel](https://www.youtube.com/c/ChiliTomatoNoodle)
 
 # Basics Of C++
-- [C++ programming tutorial series](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-~ Video Tutorial Series by TheChernoProject
+- [Beginner C++ Game Programming Tutorial Series](https://youtube.com/playlist?list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx)
+~ Video Tutorial Series by ChiliTomatoNoodle
 
 - [C++ programming tutorial series](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
 ~ Video Tutorial Series by LearningLad
@@ -78,10 +81,6 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) 
 ~ Video Tutorial Series by freeCodeCamp.org
-
-- [isocpp.org](https://isocpp.org)
-
-- [CppCoreGuidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 # C++ STL
 
@@ -102,7 +101,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Question Answer by Martin York
 
 - [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4)
-~ CppCon 2017 Talk by Matt Kulukundis <-
+~ CppCon 2017 Talk by Matt Kulukundis 
 
 - [Enough string_view to Hang Ourselves](https://youtu.be/xwP4YCP_0q0)
 ~ CppCon 2018 Talk by Victor Ciura
@@ -110,42 +109,42 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Customizing the Standard Containers](https://youtu.be/NyivAC3WE6g)
 ~ CppCon 2017 Talk by Marshall Clow
 
+- [Implementing static_vector: How Hard Could it Be?](https://youtu.be/I8QJLGI0GOE)
+~ CppCon 2021 Talk by David Stone
+
+
+
 ### STL Algorithms
 
 - [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=bXkWuUe9V2I)
 ~ ACCU 2018 Talk by Jonathan Boccara
 
 - [STL Algorithms - why you should use them, and how to write your own](https://www.youtube.com/watch?v=h4Jl1fk3MkQ)
-~ CppCon 2016 Talk by Marshall Clow <-
+~ CppCon 2016 Talk by Marshall Clow 
 
 - [STL Algorithms in Action](https://www.youtube.com/watch?v=eidEEmGLQcU)
-~ CppCon 2016 Talk by Michael VanLoon <-
+~ CppCon 2016 Talk by Michael VanLoon 
 
 - [Writing Standard Library Compliant Data Structures and Algorithms](https://youtu.be/fChDijocVec)
-~ CppCon 2018 Talk by Marc Gregoire <-
+~ CppCon 2018 Talk by Marc Gregoire 
 
 - [C++17 Parallel Algorithms](https://youtu.be/Ve8cHE9LNfk)
-~ CppCon 2017 Talk by Dietmar Kühl <-
+~ CppCon 2017 Talk by Dietmar Kühl 
 
 - [Fantastic Algorithms and Where To Find Them](https://youtu.be/YA-nB2wjVcI)
-~ CppCon 2017 Talk by Nicholas Ormrod <-
+~ CppCon 2017 Talk by Nicholas Ormrod 
 
 ### STL Utilities
 
 - [tuple＜＞: What's New and How it Works](https://www.youtube.com/watch?v=JhgWFYfdIho)
 ~ CppCon 2016 Talk by Stephan T. Lavavej
 
-- [std::optional](https://www.youtube.com/watch?v=PiaZkNp_fIM)
-~ Video Tutorial by Jason Turner
-
-- [std::any](https://www.youtube.com/watch?v=vLhr_y4YOIY)
-~ Video Tutorial by Jason Turner
 
 - [How to Write Well-Behaved Value Wrappers](https://youtu.be/J4A2B9eexiw)
 ~ CppCon 2018 Talk by Simon Brand
 
 - [Effective replacement of dynamic polymorphism with std::variant](https://youtu.be/gKbORJtnVu8)
-~ CppCon 2018 Talk by Mateusz Pusz <-
+~ CppCon 2018 Talk by Mateusz Pusz
 
 # Advanced C++
 
@@ -158,7 +157,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ CppCon 2015 Talk by Scott Schurr
 
 - [constexpr: Applications](https://www.youtube.com/watch?v=qO-9yiAOQqc)
-~ CppCon 2015 Talk by Scott Schurr <-
+~ CppCon 2015 Talk by Scott Schurr 
 
 ### Functional
 
@@ -168,7 +167,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### Time in C++
 
 - [A ＜chrono＞ Tutorial](https://www.youtube.com/watch?v=P32hvk8b13M)
-~ CppCon 2016 Talk by Howard Hinnant <-
+~ CppCon 2016 Talk by Howard Hinnant 
 
 - [Benchmark Timer](https://www.youtube.com/watch?v=GV0JMHOpoEw)
 ~ Video Tutorial by Code Blacksmith
@@ -176,7 +175,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### Random
 
 - [What C++ Programmers Need to Know about Header ＜random＞](https://www.youtube.com/watch?v=6DPkyvkMkk8)
-~ CppCon 2016 Talk by Walter E. Brown <-
+~ CppCon 2016 Talk by Walter E. Brown 
 
 ### Multithreading
 
@@ -197,7 +196,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - Multithreading is the answer. What is the question? [Part 1](https://www.youtube.com/watch?v=GNw3RXr-VJk)
  [Part 2](https://www.youtube.com/watch?v=sDLQWivf1-I)
-~ CppCon 2017 Talk by Ansel Sermersheim <-
+~ CppCon 2017 Talk by Ansel Sermersheim 
 
 - [The Trap of std::async](https://www.youtube.com/watch?v=ad9wzKR7TAk)
 ~ Video Tutorial by Code Blacksmith
@@ -213,7 +212,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Jason Turner
 
 - [Variadic Templates in C++11 / C++14 - An Introduction](https://www.youtube.com/watch?v=R1G3P5SRXCw)
-~ CppCon 2015 Talk by Peter Sommerlad <-
+~ CppCon 2015 Talk by Peter Sommerlad 
 
 - [std::enable_if](https://en.cppreference.com/w/cpp/types/enable_if)
 
@@ -221,7 +220,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ CppCon 2018 Talk by Elmar Westphal
 
 - [C++ Templates Revised](https://youtu.be/ULX_VTkMvf8)
-~ CppCon 2017 Talk by Nicolai Josuttis <-
+~ CppCon 2017 Talk by Nicolai Josuttis
 
 - [C++ Template Programming](https://www.3dgep.com/beginning-cpp-template-programming/)
 ~ Article by Jeremiah
@@ -229,10 +228,10 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ### Concepts
 
 - [Concepts: The Future of Generic Programming (the future is here)](https://www.youtube.com/watch?v=HddFGPTAmtU)
-~ CppCon 2018 Talk by Bjarne Stroustrup <-
+~ CppCon 2018 Talk by Bjarne Stroustrup
 
 - [Concepts in 60: Everything you need to know and nothing you don't](https://www.youtube.com/watch?v=ZeU6OPaGxwM)
-~ CppCon 2018 Talk by Andrew Sutton <-
+~ CppCon 2018 Talk by Andrew Sutton
 
 ### Type deduction
 
@@ -246,10 +245,10 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Code Blacksmith
 
 - [Class Template Argument Deduction for Everyone](https://www.youtube.com/watch?v=-H-ut6j1BYU)
-~ CppCon 2018 Talk by Stephan T. Lavavej <-
+~ CppCon 2018 Talk by Stephan T. Lavavej 
 
 - [Type Punning in C++17: Avoiding Pun-defined Behavior](https://youtu.be/sCjZuvtJd-k)
-~ CppCon 2017 Talk by Scott Shurr <-
+~ CppCon 2017 Talk by Scott Shurr
 
 ### SFINAE - Substitution Failure Is Not An Error
 - [SFINAE documentation](https://en.cppreference.com/w/cpp/language/sfinae)
@@ -260,12 +259,12 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Question Answer by jrok
 
 - [Custom Overload Sets and Inline SFINAE for Truly Generic Interfaces](https://youtu.be/WBTNCYT20f0)
-~ CppCon 2018 Talk by Vincent Reverdy <-
+~ CppCon 2018 Talk by Vincent Reverdy
 
 ### Meta-programming
 
 - [Introduction to C++ Template Metaprogramming](https://www.youtube.com/watch?v=lrziylOWBT4)
-~ NDC Oslo 2016 Talk by Sasha Goldshtein <-
+~ NDC Oslo 2016 Talk by Sasha Goldshtein 
 
 - [Modern Template Metaprogramming:A Compendium,Part 1](https://www.youtube.com/watch?v=Am2is2QCvxY)
 ~ CppCon 2014 Talk by Walter E.Brown Part 1
@@ -312,10 +311,10 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Code Blacksmith
 
 - [Local ('Arena') Memory Allocators (part 1)](https://www.youtube.com/watch?v=nZNd5FjSquk)
-~ CppCon 2017 Talk by John Lakos <-
+~ CppCon 2017 Talk by John Lakos 
 
 - [Local ('Arena') Memory Allocators (part 2)](https://www.youtube.com/watch?v=CFzuFNSpycI)
-~ CppCon 2017 Talk by John Lakos <-
+~ CppCon 2017 Talk by John Lakos 
 
 # C++ Error Handling
 
@@ -333,37 +332,37 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 # C++ Application Design
 
 - [C++ in Huge AAA Games](https://youtu.be/qYN6eduU06s)
-~ CppCon 2014 Talk by Nicolas Fleury <-
+~ CppCon 2014 Talk by Nicolas Fleury
 
 - [The C++ Execution Model](https://youtu.be/FJIn1YhPJJc)
-~ CppCon 2018 Talk by Adelstein Lelbach <-
+~ CppCon 2018 Talk by Adelstein Lelbach
 
 - [Game engine using STD C++ 11](https://www.youtube.com/watch?v=8AjRD6mU96s)
-~ CppCon 2016 Talk by Jason Jurecka <-
+~ CppCon 2016 Talk by Jason Jurecka
 
 - [Modern User Interfaces for C++](https://www.youtube.com/watch?v=RXTfC-35Nx8)
-~ CppCon 2015 Talk by Milian Wolff <-
+~ CppCon 2015 Talk by Milian Wolff
 
 - [EA’s Secret Weapon: Packages and Modules](https://youtu.be/NlyDUQS8OcQ)
-~ CppCon 2017 Talk by Scott Wardle <- 
+~ CppCon 2017 Talk by Scott Wardle
 
 - [Naivety of Creating Cross-Platform, Modern C++ Libraries...](https://youtu.be/JPdohAomZD8)
-~ CppCon 2017 Talk by Jonathan Henson <-
+~ CppCon 2017 Talk by Jonathan Henson
 
 - [Modern C++ API Design (part 1 of 2)](https://youtu.be/xTdeZ4MxbKo)
-~ CppCon 2018 Talk by Titus Winters <-
+~ CppCon 2018 Talk by Titus Winters
 
 - [Modern C++ API Design (part 2 of 2)](https://youtu.be/tn7oVNrPM8I)
-~ CppCon 2018 Talk by Titus Winters <-
+~ CppCon 2018 Talk by Titus Winters
 
 - [Better Code: Human Interface](https://youtu.be/0WlJEz2wb8Y)
-~ CppCon 2018 Talk by Sean Parent <-
+~ CppCon 2018 Talk by Sean Parent
 
 - [Modern C++ Interfaces...](https://youtu.be/PFdWqa68LmA)
-~ CppCon 2017 Talk by Stephen Dewhurst <-
+~ CppCon 2017 Talk by Stephen Dewhurst
 
 - [Building C++ Modules](https://youtu.be/E8EbDcLQAoc)
-~ CppCon 2017 Talk by Boris Kolpackov <-
+~ CppCon 2017 Talk by Boris Kolpackov
 
 ### C++ Object Oriented Design
 
@@ -371,7 +370,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ CppCon 2015 Talk by Richard Powell
 
 - [Design Patterns and Modern C++](https://www.youtube.com/watch?v=j9arNRRoPe8)
-~ Video Tutorial by JetBrainsTV <-
+~ Video Tutorial by JetBrainsTV
 
 - [Multiple Inheritance problem in C++](https://www.youtube.com/watch?v=7APovvvftQs)
 ~ Video Tutorial by Bo Qian
@@ -380,6 +379,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ CppCon 2017 Talk by Jeremy Demeule & Quentin Duval <-
 
 #### C++ Design Patterns
+
 - [Singleton Design Pattern](https://www.youtube.com/watch?v=2SIpresDYVc)
 ~ Video Tutorial by Code Blacksmith
 
@@ -390,7 +390,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 ~ Video Tutorial by Code Blacksmith
 
 - [Agent based class design](https://youtu.be/tNXyNa6kf4k)
-~ CppCon 2017 Talk by Odin Holmes <-
+~ CppCon 2017 Talk by Odin Holmes
 
 - [Design Patterns for Low-Level Real-Time Rendering](https://youtu.be/mdPeXJ0eiGc)
 ~ CppCon 2017 Talk by Nicolas Guillemot <-
@@ -410,20 +410,17 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 ### Generalities about C++ programming
 
-- [Free Your Functions!](https://youtu.be/WLDT1lDOsb4)
-~ CppCon 2017 Talk by Klaus Igleberger <-
-
 - [Make Classes Great Again! (Using Concepts for Customization Points)](https://www.youtube.com/watch?v=WsUnnYEKPnI)
 ~ CppCon 2017 Talk by Vinnie Falco
 
 - [Operator Overloading: History, Principles and Practice](https://youtu.be/zh4EgO13Etg)
-~ CppCom 2018 Talk by Ben Deane <-
+~ CppCom 2018 Talk by Ben Deane
 
 - [How to Write Effective Documentation for C++ Libraries...](https://youtu.be/YxmdCxX9dMk)
-~ CppCon 2017 Talk by Robert Ramey <-
+~ CppCon 2017 Talk by Robert Ramey
 
-- [Everything You Ever Wanted to Know about DLLs](https://youtu.be/JPQWQfDhICA)
-~ CppCon 2017 Talk by James McNellis <-
+- [Dynamically Loaded Libraries Outside the Standard](https://youtu.be/-dxCaM4GOqs)
+~ CppCon 2021 Talk by Zhihao Yuan
 
 ### Best practices for C++
 
@@ -459,39 +456,3 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 - [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?time_continue=498&v=XkDEzfpdcSg)
 ~ CppCon 2017 Talk by Kate Gregory
-
-# C++ Libraries
-
-- [Boost C++ Libraries](https://www.boost.org/) ~ Somewhat an extension for current C++ standard
-
-- [GSL](https://github.com/Microsoft/GSL) ~ Guidelines Support Library by Microsoft
-
-- [List of Open Source C++ libraries](https://en.cppreference.com/w/cpp/links/libs)
-
-### Embeding different languages in C++
-- [Howling at the Moon: Lua for C++ Programmers](https://www.youtube.com/watch?v=pfwHCiP1HFM)
-~ CppCon 2017 Talk by Andreas Weis
-
-- [Embedding Lua in C++](https://www.youtube.com/playlist?list=PLLwK93hM93Z3nhfJyRRWGRXHaXgNX0Itk)
-~ Video Tutorial Series by Dave Poo
-
-- [Introduction to C++ python extensions and embedding Python in C++ Apps](https://www.youtube.com/watch?v=bJq1n4gQFfw)
-~ CppCon 2016 Talk by Diego Rodriguez-Losada
-
-### Custom container libraries for C++
-
-- [tree.hh](http://tree.phi-sci.com/index.html) ~ Tree Type container library for C++
-
-### Graphical interfaces for C++
-
-- [learnopengl.org](https://learnopengl.com/)
-
-- [opengl-tutorial.org](http://www.opengl-tutorial.org/)
-
-- [C++ OpenGL](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
-~ Video Tutorial Series by TheChernoProject 
-
-- [WXwidgets C++ Tutorial](https://www.youtube.com/watch?v=FOIbK4bJKS8)
-~ Video Tutorial by javidx9 <-
-
-
