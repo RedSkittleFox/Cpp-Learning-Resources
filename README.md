@@ -291,6 +291,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [C++ Alignment, Cache Line and Best Practice](https://youtu.be/gonq59MxxcM)
 ~ Lecture by Professor Sheep
 
+- [Memory Model Basic](https://levelup.gitconnected.com/memory-model-basic-d8b5f8fddd5f)  
+~ Medium article
+
 ### Garbage Collection
 
 - [GC FAQ](https://www.iecc.com/gclist/GC-faq.html) 
