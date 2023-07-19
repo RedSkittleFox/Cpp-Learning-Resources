@@ -55,7 +55,7 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 # Learning sources
 
-- [CppExpert][https://www.cppexpert.online/]
+- [CppExpert](https://www.cppexpert.online/)
 
 - [cppreference.com](https://en.cppreference.com/w/)
 
