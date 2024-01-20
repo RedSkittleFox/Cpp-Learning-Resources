@@ -288,8 +288,8 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [Copy and Swap](https://www.youtube.com/watch?v=10wKJgrjN9M)
 ~ Video Tutorial by Code Blacksmith
 
-- [C++ Alignment, Cache Line and Best Practice](https://youtu.be/gonq59MxxcM)
-~ Lecture by Professor Sheep
+- [“Want fast C++? Know your hardware!"](https://www.youtube.com/watch?v=BP6NxVxDQIs)
+~ Lecture by Timur Doumler ( CppCon 2017 )
 
 ### Garbage Collection
 
@@ -331,6 +331,8 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 
 # C++ Application Design
 
+-[Game Programming from Scratch in C++] (https://guide.handmadehero.org/)
+~By Casey Muratori
 - [C++ in Huge AAA Games](https://youtu.be/qYN6eduU06s)
 ~ CppCon 2014 Talk by Nicolas Fleury
 
