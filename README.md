@@ -291,6 +291,9 @@ Please leave your comments, thoughts and suggestions via [Issues](https://github
 - [“Want fast C++? Know your hardware!"](https://www.youtube.com/watch?v=BP6NxVxDQIs)
 ~ Lecture by Timur Doumler ( CppCon 2017 )
 
+- [Memory Model Basic](https://levelup.gitconnected.com/memory-model-basic-d8b5f8fddd5f)
+~ Medium article
+
 ### Garbage Collection
 
 - [GC FAQ](https://www.iecc.com/gclist/GC-faq.html) 
